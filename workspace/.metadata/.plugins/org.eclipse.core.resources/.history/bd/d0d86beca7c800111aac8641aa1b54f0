@@ -1,0 +1,3 @@
+module Euler100
+  puts "Hellow World"
+end

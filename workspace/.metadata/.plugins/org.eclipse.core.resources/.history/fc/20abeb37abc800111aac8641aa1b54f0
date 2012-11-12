@@ -1,0 +1,13 @@
+def GCD(a, b)
+  if(b==0)then
+    return b
+  end
+  return(GCD(b,a%b))
+end
+
+module Euler100
+  puts "Hello World"
+  puts (15.25).floor
+  init = 1000000000000
+  while
+end
