@@ -1,4 +1,0 @@
-module Euler100
-  puts "Hello World"
-  puts floor(15.25)
-end
